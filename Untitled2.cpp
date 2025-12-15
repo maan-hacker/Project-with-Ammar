@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// This is a structure named by student.
 struct Student{
 	char name[20];
 	int rollNo;
@@ -66,6 +67,7 @@ int main() {
 	
 	return 0;
 }
+
 
 
 
